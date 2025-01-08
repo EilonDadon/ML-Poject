@@ -20,14 +20,13 @@ This project analyzes donation trends to Israel and predicts donation purposes u
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone <https://github.com/EilonDadon/ML-Poject>
    
 2. Install the required Python packages:
     ```bash
     pip install -r requirements.txt
     
-3. Ensure you have the necessary API keys from the gov site. link : "https://data.gov.il/dataset/moj-amutot/resource/35cb40b5-3f13-4bca-9ce2-488085913107"
+3. Ensure you have the necessary API keys from the gov site. link : <https://data.gov.il/dataset/moj-amutot/resource/35cb40b5-3f13-4bca-9ce2-488085913107>
 
 ## Usage
 1. Open the Jupyter Notebook:
